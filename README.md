@@ -1,2 +1,5 @@
 # VideoPlayer
-This is a VideoCodeingAssignment 
+
+# Objective: 
+Create a video player application.
+
